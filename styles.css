@@ -1,0 +1,40 @@
+html{
+    background-color:black;
+    text-align: center;
+    color: antiquewhite;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 75px;
+}
+li{
+background-color: rgb(31, 31, 31);
+}
+#idiogramas{
+    align-items: center;
+}
+.iconos-redes{
+    align-items: center;
+}
+#anuncios{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+image{
+    max-height: '250px';
+    width: auto;
+}
+#fotos-perros{ 
+max-height: 145px; width: auto;
+}
+.anuncios{
+    background-image: url(texture.jpg);
+    background-size:cover;
+}
+h1{
+    background-image: url(texture.jpg);
+    background-size: cover;
+}
+.desarrollador{
+    font-size: 12px;
+}
